@@ -1,0 +1,52 @@
+body{
+    background-color: #393E46;
+
+    
+}
+
+.container{
+    
+    width: 70%;
+    margin: auto;
+    text-align: center;;
+    
+}
+
+.heading{
+    
+    color: #4ECCA3 ;
+    font-family: 'Lobster', cursive;
+    font-size: 5rem;
+    text-shadow: 4px 0px black;
+}
+
+.playerInfo{
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    text-shadow: 1px 1px black;
+    font-size: 2rem;
+    display: inline-block;
+}
+img{
+    width: 80%;
+}
+
+.footer{
+    font-family: 'Indie Flower', cursive;
+    color: aliceblue;
+    text-shadow: 1px 1px black;
+    text-align: center;
+    
+}
+
+button{
+    background-color: #4ECCA3; 
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1.5rem;
+    font-family: 'Indie Flower', cursive;
+    color: aliceblue;
+    text-shadow: 1px 1px black;
+}
