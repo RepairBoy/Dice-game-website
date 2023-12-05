@@ -40,6 +40,7 @@
 
 //initialy used function and loops to change the dices but shortened it afterwords.
 
+document.querySelector("button").addEventListener("click",diceRoll);
 
 function diceRoll(){            //will be called when the button is pressed
     var randNumber1 = Math.floor(Math.random() * 6) + 1;
